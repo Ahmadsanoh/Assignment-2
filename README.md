@@ -1,16 +1,20 @@
-# assignment2
+# AHMAD SANOH 1921973
+# assignment-2-section1-Ahmadsanoh
+assignment-2-section1-Ahmadsanoh created by GitHub Classroom
+We learn a little bit about creating your app from scratch and using buttons and creating actions. 
 
-A new Flutter project.
+In this assignment, you will create:
 
-## Getting Started
+1) a flutter app
 
-This project is a starting point for a Flutter application.
+2) create an object with hard coded list of items, for example apple, orange, rambutan...etc. You will also need to map it to an image path.
 
-A few resources to get you started if this is your first Flutter project:
+3) Create a textbox widget to type in the choice of the item.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4) Create two elevated button, one is "Display Choice" the other is  "Im feeling Lucky" .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If "apple" is entered in the textbox, and the button "display choice" is pressed, show an image of the apple.
+
+If the button "I'm feeling Lucky" is pressed, show an image of a randomly selected item from the list.
+
+5) Submit the link to your github repo.
